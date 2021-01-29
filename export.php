@@ -84,7 +84,7 @@ foreach($data["last_txs"] as $key => $a_data) {
         case "csv":
             $fp = fopen($ofile, 'w');
             if(!$fp) {
-                die("File is not writeable or the permissions aren't correct.");
+                die("File is not writeable or the permissions aren't correct.".PHP_EOL);
             }
             foreach ($ready_tx_data as $fields) {
                 fputcsv($fp, $fields, ",");
