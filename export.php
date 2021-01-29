@@ -4,8 +4,11 @@ Copyright @randomsmncalias (github.com/randomsmncalias)
 I created this script to easily export SMNC explorer data so people can use it for taxes or such.
 
 --IMPORTANT--
+
+--LIABILITY--
 I can NOT be held liable for anything at all. I created this script in my free time while working an intense fulltime job.
 I can not guarantee that it works the way it's intended but I'll try my best to fix issues.
+--/LIABILIY--
 
 Feel free to submit issues/bug reports but don't expect anything fast, I have a very limited amount of energy which is assigned accordingly.
 
